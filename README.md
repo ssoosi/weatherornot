@@ -1,6 +1,6 @@
 # Weather Or Not APP with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was crafted using React for its dynamic, modular, and high-performance capabilities, ensuring a seamless and user-friendly experience.
 
 ## Available Scripts
 
